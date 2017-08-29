@@ -1,6 +1,6 @@
 # PyDictionary
 This project is a simple module to create a soft dictionary which accepts a word from the user and results the meaning of word.<br>
-<br><b>Features:<br><ul><li>pydictionary is not case sensitive.<li>supports spelling errors<br></ul>
+<b><br>Features:<br><ul><li>pydictionary is not case sensitive.<li>supports spelling errors<br></ul></b>
 
 <b>Usage:</b><br><br>
 import pydictionary
